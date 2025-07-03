@@ -1,5 +1,5 @@
  import java.util.*;
- public class Minimum{
+ public class Problem3_Minimum{
     public static void main(String[] args) {
         int amount = 93;
         int[] coins = {1, 2, 5, 10, 20, 50, 100};

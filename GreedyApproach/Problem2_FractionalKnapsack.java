@@ -6,7 +6,7 @@
         weight = w;
     }
  }
- public class FractionalKnapsack {
+ public class Problem2_FractionalKnapsack {
     public static void main(String[] args) {
         Item[] items = {
             new Item(60, 10),
